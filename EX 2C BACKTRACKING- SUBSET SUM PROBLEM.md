@@ -11,8 +11,8 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 5. Count Matches: If the subset's sum equals the target sum s, increment a counter and return the final count.
 
 ## Program:
-Developed by: NARASIMHAN S 
-Register Number: 212223230133- 
+### Developed by: NARASIMHAN S 
+### Register Number: 212223230133- 
 
 ```
 from itertools import combinations

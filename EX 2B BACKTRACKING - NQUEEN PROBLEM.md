@@ -70,6 +70,7 @@ solveNQ()
 ```
 ## Output:
 
+![image](https://github.com/user-attachments/assets/143b4a39-d603-4ac1-a424-70734c77139d)
 
 ## Result:
 The N-Queens program executed successfully, and a valid board configuration was generated.

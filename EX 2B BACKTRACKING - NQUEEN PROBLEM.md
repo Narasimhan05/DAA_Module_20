@@ -11,8 +11,8 @@ To solve the N-Queen problem using backtracking, which places N queens on an N*N
 5. Backtrack & Print: If a queen cannot be placed in a column, backtrack. If all N queens are placed successfully, print the board.  
 
 ## Program:
-Developed by: NARASIMHAN S
-Register Number: 212223230133 
+### Developed by: NARASIMHAN S
+### Register Number: 212223230133 
 
 ```
 global N
